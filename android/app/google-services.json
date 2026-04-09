@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005013508838",
+    "project_id": "yalla-7agz-dc31c",
+    "storage_bucket": "yalla-7agz-dc31c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005013508838:android:1e57b961ef4d3ab8d61127",
+        "android_client_info": {
+          "package_name": "com.example.malab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005013508838-403jr30b4utbk49koagvqep4hjkmein1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9P7lP2FuKgsMsNmCGYcg_wU7rnOe1q5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005013508838-403jr30b4utbk49koagvqep4hjkmein1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
